@@ -1,0 +1,15 @@
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/bin/Debug/net8.0/ChatApp.Services.deps.json
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/bin/Debug/net8.0/ChatApp.Services.dll
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/bin/Debug/net8.0/ChatApp.Services.pdb
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.AssemblyInfoInputs.cache
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.AssemblyInfo.cs
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.csproj.CoreCompileInputs.cache
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.dll
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/refint/ChatApp.Services.dll
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.pdb
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ref/ChatApp.Services.dll
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/bin/Debug/net8.0/ChatApp.Data.dll
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/bin/Debug/net8.0/ChatApp.Data.pdb
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.csproj.AssemblyReference.cache
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.csproj.CopyComplete
