@@ -1,6 +1,7 @@
 ﻿namespace ChatApp.Data;
 
 public class GroupRepository : IGroupRepository
+
 {
     private readonly IGenericRepository<Group> _genericRepository;
 
@@ -12,6 +13,11 @@ public class GroupRepository : IGroupRepository
     public async Task<Group> AddAsync(Group entity)
     {
         return await _genericRepository.AddAsync(entity);
+    }
+
+    public async Task<int> CountAsync()
+    {
+        return await _genericRepository.CountAsync();
     }
 
     public async Task<Group> DeleteAsync(Group entity)

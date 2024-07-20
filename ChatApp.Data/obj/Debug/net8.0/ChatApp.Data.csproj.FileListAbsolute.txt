@@ -12,3 +12,4 @@
 /Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Data/bin/Debug/net8.0/ChatApp.Data.runtimeconfig.json
 /Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Data/obj/Debug/net8.0/ChatApp.Data.csproj.AssemblyReference.cache
 /Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Data/obj/Debug/net8.0/ChatApp.Data.genruntimeconfig.cache
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Data/obj/Debug/net8.0/ChatApp.Data.sourcelink.json

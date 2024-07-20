@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "33X4eZkfnMEBQIomJDeROZOaNGTI681IkELD6wAM2sH7j8Cu5roHt6vG/bkyWJEMxNUqXwAy/bgmMEmqo/zLyQ==",
+  "dgSpecHash": "Eb3T7T/oJ5jBgjtDathlR5cvjQigAWlbtFrwXm7G7opaICwogZNjgAje7TH5emznSiiWYnn5YBbPzVO5teab4Q==",
   "success": true,
   "projectFilePath": "/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/ChatApp.Services.csproj",
   "expectedPackageFiles": [
+    "/Users/anil/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/anil/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

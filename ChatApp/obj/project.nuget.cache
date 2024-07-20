@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nJHLTU1cYfQiVaMD7T1b5XxOEvydZizkkq0TkPPmZCzFlveFWGvckV2efVcoPMejLNHY3VD6iK4YuhrN3DHhGQ==",
+  "dgSpecHash": "NTIlmGNv7XLH20/v1XcbM1i0otUw3rVuTakbfjn7Xx+UPNMIHoE6HFOXpxxCgmafc+QTZDcOJWO7ceTKGYH0xw==",
   "success": true,
   "projectFilePath": "/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp/ChatApp.csproj",
   "expectedPackageFiles": [
+    "/Users/anil/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/anil/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
     "/Users/anil/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

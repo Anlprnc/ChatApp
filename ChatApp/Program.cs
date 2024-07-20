@@ -1,4 +1,7 @@
+using AutoMapper;
 using ChatApp.Data;
+using ChatApp.Services;
+using ChatApp.Services.Mapping;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +13,14 @@ builder.Services.AddDbContext<ChatAppDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+builder.Services.RegisterRepositories();
+builder.Services.RegisterServices();
+var mapperConfig = new MapperConfiguration(mc =>
+{
+    mc.AddProfile(new MyProfiles());
+});
+IMapper mapper = mapperConfig.CreateMapper();
+builder.Services.AddSingleton(mapper);
 
 var app = builder.Build();
 

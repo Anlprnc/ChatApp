@@ -13,3 +13,4 @@
 /Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/bin/Debug/net8.0/ChatApp.Data.pdb
 /Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.csproj.AssemblyReference.cache
 /Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.csproj.CopyComplete
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp.Services/obj/Debug/net8.0/ChatApp.Services.sourcelink.json
