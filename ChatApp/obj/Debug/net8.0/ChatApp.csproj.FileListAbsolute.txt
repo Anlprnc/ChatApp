@@ -141,3 +141,4 @@
 /Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp/obj/Debug/net8.0/ChatApp.sourcelink.json
 /Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp/bin/Debug/net8.0/AutoMapper.dll
+/Users/anil/Documents/Development/Dotnet/ChatApp/ChatApp/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -91,5 +91,3 @@ namespace ChatApp.Controllers
         }
     }
 }
-
-// test
